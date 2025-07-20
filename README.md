@@ -4,12 +4,14 @@
   <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1920&auto=format&fit=crop" alt="Banner Coding" width="850"/>
 </p>
 
-<h1 align="center">Halo, saya [Anom Krisna] 👋</h1>
+<h1 align="center">Halo, saya Anom Krisna 👋</h1>
+
+<h3 align="center">Beberapa hal tentang saya:</h3>
 
 <p align="center">
-  Saya seorang <strong>[Front End Developer]</strong> dari <strong>[Yogyakarta, Indonesia]</strong>.
-  <br />
-  Saya sangat tertarik dengan [Web Development dan Mobile App development].
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F8F8F2&center=true&vCenter=true&width=435&lines=💻+Saya+suka+coding+di+malam+hari;🚀+Membangun+proyek-proyek+keren;🌐+Tertarik+dengan+dunia+Open+Source;🤔+Selalu+belajar+hal-hal+baru" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
