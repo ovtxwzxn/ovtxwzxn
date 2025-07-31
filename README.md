@@ -2,20 +2,20 @@
 
 <p align="center">
 <!--
-PENTING: Ganti URL di bawah ini dengan URL Raw dari gambar banner Anda yang sudah diunggah ke GitHub.
-Contoh URL yang benar: https://raw.githubusercontent.com/[USERNAME_GITHUB_ANDA]/[USERNAME_GITHUB_ANDA]/main/assets/nama_gambar.png
+INI ADALAH FORMAT URL YANG BENAR UNTUK GAMBAR ANDA.
+Ini adalah URL lengkap (absolut) ke file gambar Anda di dalam repository.
+Ganti [GANTI_DENGAN_USERNAME_ANDA] dengan username Anda.
 -->
-<img src="assets/Gemini_Generated_Image_oiq4o0oiq4o0oiq4.png" alt="Banner Coding" width="850"/>
+<img src="https://raw.githubusercontent.com/Ovtxwzxn/[Ovtxwzxn]/main/assets/Gemini_Generated_Image_oiq4o0oiq4o0oiq4.png" alt="Banner Coding" width="850"/>
 </p>
 
-<!-- Perkenalan dan Animasi Mengetik -->
+<!-- Perkenalan dan Paragraf -->
 
 <h1 align="center">Hello, My Name Is Ovtxwzxn</h1>
-<h3 align="center">Beberapa hal tentang saya:</h3>
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F8F8F2&center=true&vCenter=true&width=435&lines=💻+Saya+suka+coding+di+malam+hari;🚀+Membangun+proyek-proyek+keren;🌐+Tertarik+dengan+dunia+Open+Source;🤔+Selalu+belajar+hal-hal+baru" alt="Typing SVG" />
-</a>
+Saya seorang developer yang bersemangat dalam membangun proyek-proyek keren dan bermanfaat.
+<br />
+Saat ini saya tertarik dengan dunia Open Source dan selalu antusias untuk belajar hal-hal baru di dunia teknologi.
 </p>
 
 <!-- Teknologi & Tools -->
@@ -23,8 +23,7 @@ Contoh URL yang benar: https://raw.githubusercontent.com/[USERNAME_GITHUB_ANDA]/
 <h3 align="center">🚀 Teknologi & Tools</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<!-- BAGIAN INI SUDAH DIPERBARUI: Saya menambahkan ikon untuk HTML, CSS, JS, dan Bash (Linux Command) -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,git,vscode,bash" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,nodejs,express,mongodb,docker,git,vscode,bash" />
 </a>
 </p>
 
@@ -32,10 +31,10 @@ Contoh URL yang benar: https://raw.githubusercontent.com/[USERNAME_GITHUB_ANDA]/
 
 <h3 align="center">📊 Statistik GitHub Saya</h3>
 <p align="center">
-<!-- Ganti [USERNAME_GITHUB_ANDA] dengan username Anda -->
-<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
+<!-- Ganti [GANTI_DENGAN_USERNAME_ANDA] dengan username Anda -->
+<img src="https://github-readme-stats.vercel.app/api?username=[GANTI_DENGAN_USERNAME_ANDA]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
 <br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[USERNAME_GITHUB_ANDA]&layout=compact&langs_count=8&theme=tokyonight" alt="Bahasa Teratas"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[GANTI_DENGAN_USERNAME_ANDA]&layout=compact&langs_count=8&theme=tokyonight" alt="Bahasa Teratas"/>
 </p>
 
 <!-- Kontak / Hubungi Saya -->
