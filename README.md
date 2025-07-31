@@ -11,9 +11,9 @@ Saat ini saya tertarik dengan dunia Open Source dan selalu antusias untuk belaja
 
 <h3 align="center">📊 Statistik GitHub Saya</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[GANTI_DENGAN_USERNAME_ANDA]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ovtxwzxn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GANTI_DENGAN_USERNAME_ANDA]&layout=compact&langs_count=8&theme=tokyonight" alt="Bahasa Teratas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovtxwzxn&layout=compact&langs_count=8&theme=tokyonight" alt="Bahasa Teratas"/>
 </p>
 
 <h3 align="center">📫 Hubungi Saya</h3>
