@@ -1,3 +1,7 @@
+<!--
+PETUNJUK: Ganti semua teks [GANTI_DENGAN_USERNAME_ANDA] dengan username GitHub Anda (contoh: Ovtxwzxn). Ganti juga placeholder kontak lainnya seperti [USERNAME_LINKEDIN_ANDA] dan [EMAIL_ANDA].
+-->
+
 <!-- Perkenalan dan Paragraf -->
 
 <h1 align="center">Hello, My Name Is Ovtxwzxn</h1>
@@ -11,10 +15,7 @@ Saat ini saya tertarik dengan dunia Open Source dan selalu antusias untuk belaja
 
 <h3 align="center">🚀 Teknologi & Tools</h3>
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,git,vscode,bash" />
-</a>
-</p>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,docker,git,vscode,bash" /> </a> </p>
 
 <!-- Statistik GitHub -->
 
